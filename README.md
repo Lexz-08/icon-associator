@@ -23,3 +23,6 @@ if (!AssociationManager.CheckForAssociationInfo(association))
 if (AssociationManager.CheckForAssociationInfo(association))
     AssociationManager.RemoveAssociationInfo(association);
 ```
+
+## Download
+[icon-associator.dll](https://github.com/Lexz-08/icon-associator/releases/latest/download/icon-associator.dll)
