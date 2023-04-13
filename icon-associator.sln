@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "icon-associator", "icon-associator\icon-associator.csproj", "{EDAE99ED-14BF-4E85-B5D7-55A71C3B344B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApp", "DemoApp\DemoApp.csproj", "{44D6CA1D-9A40-4063-B262-B9574B201BC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDAE99ED-14BF-4E85-B5D7-55A71C3B344B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAE99ED-14BF-4E85-B5D7-55A71C3B344B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAE99ED-14BF-4E85-B5D7-55A71C3B344B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAE99ED-14BF-4E85-B5D7-55A71C3B344B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D6CA1D-9A40-4063-B262-B9574B201BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D6CA1D-9A40-4063-B262-B9574B201BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D6CA1D-9A40-4063-B262-B9574B201BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D6CA1D-9A40-4063-B262-B9574B201BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8160D01E-FEBE-41C8-97E4-9AD2D0AC979D}
+	EndGlobalSection
+EndGlobal
